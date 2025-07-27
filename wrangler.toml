@@ -1,6 +1,6 @@
-name              = "bigbadevilcorp-worker"
+name              = "bbec-website"
 main              = "worker.js"          # the script below
-account_id        = "YOUR_ACCOUNT_ID"    # Settings → API Tokens
+account_id        = "45621336c3992122038ebb3c131611d5"    # Settings → API Tokens
 compatibility_date = "2025-07-27"
 
 [assets]
