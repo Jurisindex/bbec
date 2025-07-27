@@ -1,0 +1,8 @@
+name              = "bigbadevilcorp-worker"
+main              = "worker.js"          # the script below
+account_id        = "YOUR_ACCOUNT_ID"    # Settings → API Tokens
+compatibility_date = "2025-07-27"
+
+[assets]
+directory = "./"                         # everything in the repo
+
